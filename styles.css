@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+.card-body {
+    
+    border:1px solid orangered;
+
+    justify-content: space-around;
+}
+.rounded-circle {
+    margin: 0 auto;
+    display: block;
+    max-width:100%;
+    height: auto;
+    align-items: center;
+    
+}
+.container-mt3{
+    border: 2px solid rgb(104, 10, 211);
+    margin:30px;
+    text-align: center;
+    align-items: center;
+    
+}
+.card-text {
+    font-size: 20px;
+    padding-right:10px;
+}
